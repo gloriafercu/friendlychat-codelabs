@@ -244,6 +244,10 @@ FriendlyChat.prototype.requestNotificationsPermissions = function() {
 	});
 };
 
+
+
+
+
 // Resets the given MaterialTextField.
 FriendlyChat.resetMaterialTextfield = function(element) {
   element.value = '';

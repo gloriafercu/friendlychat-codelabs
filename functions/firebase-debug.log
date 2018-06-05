@@ -1,0 +1,18 @@
+[debug] [2018-06-05T08:58:13.548Z] ----------------------------------------------------------------------
+[debug] [2018-06-05T08:58:13.550Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-06-05T08:58:13.550Z] CLI Version:   3.18.5
+[debug] [2018-06-05T08:58:13.550Z] Platform:      darwin
+[debug] [2018-06-05T08:58:13.550Z] Node Version:  v8.11.2
+[debug] [2018-06-05T08:58:13.551Z] Time:          Tue Jun 05 2018 10:58:13 GMT+0200 (CEST)
+[debug] [2018-06-05T08:58:13.551Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-06-05T08:58:13.565Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-06-05T08:58:13.565Z] > authorizing via signed-in user
+[debug] [2018-06-05T08:58:13.568Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-codelab-proof  
+  
+ Tue Jun 05 2018 10:58:13 GMT+0200 (CEST)
+[debug] [2018-06-05T08:58:14.383Z] <<< HTTP RESPONSE 200
+[debug] [2018-06-05T08:58:14.384Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-codelab-proof/tokens  
+  
+ Tue Jun 05 2018 10:58:14 GMT+0200 (CEST)
+[debug] [2018-06-05T08:58:15.120Z] <<< HTTP RESPONSE 200
